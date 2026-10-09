@@ -1,7 +1,6 @@
 # Cardivascular-Disease-Prediction-Using-Logistic-Regression
 
-# Predicting 10-Year Coronary Heart Disease Risk
-## Cardiovascular Study Dataset- Logistic Regression Analysis
+## Predicting 10-Year Coronary Heart Disease Risk
 
 ## Project Goal
 To build a logistic regression model that predicts whether a patient will develop coronary heart disease (CHD) within the next 10 years based on demographic, lifestyle and 
